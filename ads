@@ -1,5 +1,5 @@
 {
-    "ads": {"network":"applovin","url":"https://play.google.com/store/apps/developer?id=JACUBDevlopers"},
+    "ads": {"network":"applovin","url":"https://play.google.com/store/apps/dev?id=8806482317922025428"},
     "reword": {"items":""},
     
     "fan": {
